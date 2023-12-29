@@ -18,6 +18,7 @@ const CustomerRoutes = () => {
         <nav className="sticky top-0 z-50">
             <Navbar/>
         </nav>
+        
         <Routes>
             <Route exact path='/' element={<HomePage/>}/>
             <Route exact path='/account/:register' element={<HomePage/>}/>
@@ -29,6 +30,7 @@ const CustomerRoutes = () => {
             <Route path='/admin/add-restaurant' element={<CreateRestaurantForm/>}/>
             <Route exact path='/password-change-success' element={<PasswordChangeSuccess/>}/>
         </Routes>
+        
     </div>
   )
 }
