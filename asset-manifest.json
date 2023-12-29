@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodizo-FrontEnd/static/css/main.50299629.css",
-    "main.js": "/Foodizo-FrontEnd/static/js/main.09440cb4.js",
+    "main.js": "/Foodizo-FrontEnd/static/js/main.62fbdaf1.js",
     "static/js/512.f765f593.chunk.js": "/Foodizo-FrontEnd/static/js/512.f765f593.chunk.js",
     "static/media/slick.svg": "/Foodizo-FrontEnd/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Foodizo-FrontEnd/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/Foodizo-FrontEnd/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Foodizo-FrontEnd/index.html",
     "main.50299629.css.map": "/Foodizo-FrontEnd/static/css/main.50299629.css.map",
-    "main.09440cb4.js.map": "/Foodizo-FrontEnd/static/js/main.09440cb4.js.map",
+    "main.62fbdaf1.js.map": "/Foodizo-FrontEnd/static/js/main.62fbdaf1.js.map",
     "512.f765f593.chunk.js.map": "/Foodizo-FrontEnd/static/js/512.f765f593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50299629.css",
-    "static/js/main.09440cb4.js"
+    "static/js/main.62fbdaf1.js"
   ]
 }
